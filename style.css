@@ -1,0 +1,27 @@
+* {
+  font-size: 20px;
+  color: white;
+}
+button {
+  cursor: pointer;
+  padding: 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 5px;
+  background: rgb(182, 182, 182);
+}
+#display {
+  font-size: 35px;
+  border: none;
+  background: black;
+  padding: 10px;
+  width: 170px;
+}
+.operator {
+  background: orange;
+}
+#AC {
+  padding: 17px;
+  text-align: center;
+  background: grey;
+}
